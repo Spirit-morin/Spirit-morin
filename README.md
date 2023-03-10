@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spirit-morin
-- 👀 I’m interested in MECM SCCM and Powershell
-- 🌱 I’m currently learning Intune
+- 👀 I’m interested in Intune SCCM Azure and Powershell
+- 🌱 I’m currently learning Ms Graph
 - 💞️ I’m looking to collaborate on Powershell Script
 - 📫 How to reach me , Dont call me, I call you.
 
